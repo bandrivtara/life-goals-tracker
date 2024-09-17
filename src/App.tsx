@@ -1,11 +1,5 @@
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      LGT
-    </div>
-  );
-}
+const App = () => {
+  return <>LGT</>;
+};
 
 export default App;
